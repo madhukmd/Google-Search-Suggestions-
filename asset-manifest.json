@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5cee489.chunk.css",
-    "main.js": "/static/js/main.ff7dec4c.chunk.js",
-    "main.js.map": "/static/js/main.ff7dec4c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02d7099f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02d7099f.js.map",
-    "static/js/2.fe4c137b.chunk.js": "/static/js/2.fe4c137b.chunk.js",
-    "static/js/2.fe4c137b.chunk.js.map": "/static/js/2.fe4c137b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c5cee489.chunk.css.map": "/static/css/main.c5cee489.chunk.css.map",
-    "static/js/2.fe4c137b.chunk.js.LICENSE.txt": "/static/js/2.fe4c137b.chunk.js.LICENSE.txt"
+    "main.css": "/Google-Search-Suggestions-/static/css/main.c5cee489.chunk.css",
+    "main.js": "/Google-Search-Suggestions-/static/js/main.ff7dec4c.chunk.js",
+    "main.js.map": "/Google-Search-Suggestions-/static/js/main.ff7dec4c.chunk.js.map",
+    "runtime-main.js": "/Google-Search-Suggestions-/static/js/runtime-main.192517bb.js",
+    "runtime-main.js.map": "/Google-Search-Suggestions-/static/js/runtime-main.192517bb.js.map",
+    "static/js/2.fe4c137b.chunk.js": "/Google-Search-Suggestions-/static/js/2.fe4c137b.chunk.js",
+    "static/js/2.fe4c137b.chunk.js.map": "/Google-Search-Suggestions-/static/js/2.fe4c137b.chunk.js.map",
+    "index.html": "/Google-Search-Suggestions-/index.html",
+    "static/css/main.c5cee489.chunk.css.map": "/Google-Search-Suggestions-/static/css/main.c5cee489.chunk.css.map",
+    "static/js/2.fe4c137b.chunk.js.LICENSE.txt": "/Google-Search-Suggestions-/static/js/2.fe4c137b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02d7099f.js",
+    "static/js/runtime-main.192517bb.js",
     "static/js/2.fe4c137b.chunk.js",
     "static/css/main.c5cee489.chunk.css",
     "static/js/main.ff7dec4c.chunk.js"
